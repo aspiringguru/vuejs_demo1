@@ -16,3 +16,9 @@ npm run build
 
 npm install -g serve
 serve -s dist
+
+python -m http.server 80
+or
+http-server -p 80
+
+https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is
